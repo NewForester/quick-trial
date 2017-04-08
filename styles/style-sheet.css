@@ -6,4 +6,4 @@ p > code::before, p > code::after       { content: "`"; }
 div.noindent    {}
 div.indent      {margin-left: 40px}
 
-/* EOF */
+/* EOF - the original useless comment */
