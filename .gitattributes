@@ -1,2 +1,2 @@
-/html   linguist-documentation
-/styles linguist-documentation
+html/*      linguist-documentation
+styles/*    linguist-documentation
